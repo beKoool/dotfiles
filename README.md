@@ -8,7 +8,7 @@ my awesomewm dotfiles :)
 - Neovim (code-editor)
 - Sarasa Mono font  
 - Fish (shell)
-- Picom (compositor)
+- Picom (pijulius fork)
 - Rofi (app launcher)
 - Thunar (file mgr)
 - [Wallp](https://user-images.githubusercontent.com/76424367/206713367-3472bdae-538f-40e2-8d7c-df01b5176405.jpg)
