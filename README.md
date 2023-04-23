@@ -5,13 +5,12 @@ my awesomewm dotfiles :)
 
 - Awesomewm (window manager)
 - Kitty (terminal emulator)
-- Neovim (code-editor)
-- Sarasa Mono font  
+- Product Sans (font)  
 - Fish (shell)
-- Picom (pijulius fork)
+- Picom
 - Rofi (app launcher)
 - Thunar (file mgr)
-- [Wallp](https://user-images.githubusercontent.com/76424367/206713367-3472bdae-538f-40e2-8d7c-df01b5176405.jpg)
+- [Wallp](https://user-images.githubusercontent.com/76424367/233851794-0061218a-acc4-4c62-801e-7dd034ea4d5c.png)
 
 # Screenshot 🖼️
-![1st](https://user-images.githubusercontent.com/76424367/206711488-a54935b3-bc83-4929-a851-634f23bf4603.png)
+![hexane_](https://user-images.githubusercontent.com/76424367/233852190-7d699d58-c045-4ccc-82af-9b6cfa1a3607.png)
