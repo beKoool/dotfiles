@@ -3,13 +3,13 @@ my awesomeWm **dotfiles** :)
 
 # Dependencies 🚀
 
-- Awesomewm (window manager)
-- Kitty (terminal emulator)
-- Product Sans (font)  
-- Fish (shell)
-- Picom
-- Rofi (app launcher)
-- Thunar (file mgr)
+- Awesomewm (_window manager_)
+- Kitty (_terminal emulator_)
+- Product Sans (_font_)  
+- Fish (_shell_)
+- Picom (_compositor_)
+- Rofi (_app launcher_)
+- Thunar (_file mgr_)
 - [Wallp](https://user-images.githubusercontent.com/76424367/233851794-0061218a-acc4-4c62-801e-7dd034ea4d5c.png)
 
 # Screenshot 🖼️
