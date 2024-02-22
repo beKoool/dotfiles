@@ -1,5 +1,5 @@
 # Awesomewm-dotfiles 😎
-my awesomewm dotfiles :)
+my awesomeWm **dotfiles** :)
 
 # Dependencies 🚀
 
